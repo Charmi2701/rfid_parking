@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "434073711476",
+      "firebase_url": "https://rfid-parking-ad0c8.firebaseio.com",
+      "project_id": "rfid-parking-ad0c8",
+      "storage_bucket": "rfid-parking-ad0c8.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:434073711476:android:4a0eaa67a985aa6d3e7221",
+          "android_client_info": {
+            "package_name": "com.example.rfid_parking"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "434073711476-5i8ib9au33gtantsc6t45vugpkjn4e0b.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDPk2ySd7l2pcAAyfQ7FflQIznZiAEIWZc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "434073711476-5i8ib9au33gtantsc6t45vugpkjn4e0b.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
